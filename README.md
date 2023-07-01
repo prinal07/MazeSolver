@@ -1,9 +1,7 @@
-ECM 2423 Coursework
--------------------
+# ECM 2423 Coursework
 
-How to run
----------- 
-
+## How to run
+ 
  - If in Terminal, navigate to ECM2423Coursework directory.
 
  - For algorithm of choice type the specific command
@@ -19,8 +17,7 @@ How to run
 
  - This will print data to the terminal and should create two subdirectories : 'Paths' and 'VisualPath'
 
-Where to look for results
--------------------------
+## Where to look for results
 
  - The statistics are printed in the terminal. 
 
@@ -28,8 +25,7 @@ Where to look for results
 
  - The path is printed onto the maze in a .txt file in the subdirectory 'VisualPath'
 
- Disclaimer
- ----------
+## Disclaimer
 
  The printing of the Visual Path/ path on the maze will take time for 'maze-VLarge.txt'
 
